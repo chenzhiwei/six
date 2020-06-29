@@ -11,6 +11,7 @@ payload:
 - IP-CIDR,95.161.64.0/20
 
 # > GitHub
+- DOMAIN-KEYWORD,github-production-release-asset
 - DOMAIN-SUFFIX,github.com
 - DOMAIN-SUFFIX,github.ibm.com
 - DOMAIN-SUFFIX,githubusercontent.com
