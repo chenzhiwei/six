@@ -1,0 +1,144 @@
+payload:
+# > Telegram
+- DOMAIN-SUFFIX,t.me
+- DOMAIN-SUFFIX,tdesktop.com
+- DOMAIN-SUFFIX,telegra.ph
+- DOMAIN-SUFFIX,telegram.me
+- DOMAIN-SUFFIX,telegram.org
+- IP-CIDR,109.239.140.0/24
+- IP-CIDR,149.154.0.0/16
+- IP-CIDR,91.108.0.0/16
+- IP-CIDR,95.161.64.0/20
+
+# > GitHub
+- DOMAIN-SUFFIX,github.com
+- DOMAIN-SUFFIX,github.ibm.com
+- DOMAIN-SUFFIX,githubusercontent.com
+
+# > Apple
+- DOMAIN,apps.apple.com
+
+# > Google
+- DOMAIN-KEYWORD,blogspot
+- DOMAIN-KEYWORD,google
+- DOMAIN-SUFFIX,abc.xyz
+- DOMAIN-SUFFIX,admin.recaptcha.net
+- DOMAIN-SUFFIX,ampproject.net
+- DOMAIN-SUFFIX,ampproject.org
+- DOMAIN-SUFFIX,android.com
+- DOMAIN-SUFFIX,androidify.com
+- DOMAIN-SUFFIX,appspot.com
+- DOMAIN-SUFFIX,autodraw.com
+- DOMAIN-SUFFIX,blogger.com
+- DOMAIN-SUFFIX,capitalg.com
+- DOMAIN-SUFFIX,certificate-transparency.org
+- DOMAIN-SUFFIX,chrome.com
+- DOMAIN-SUFFIX,chromeexperiments.com
+- DOMAIN-SUFFIX,chromestatus.com
+- DOMAIN-SUFFIX,chromium.org
+- DOMAIN-SUFFIX,creativelab5.com
+- DOMAIN-SUFFIX,debug.com
+- DOMAIN-SUFFIX,deepmind.com
+- DOMAIN-SUFFIX,dialogflow.com
+- DOMAIN-SUFFIX,firebaseio.com
+- DOMAIN-SUFFIX,getmdl.io
+- DOMAIN-SUFFIX,getoutline.org
+- DOMAIN-SUFFIX,ggpht.com
+- DOMAIN-SUFFIX,gmail.com
+- DOMAIN-SUFFIX,gmodules.com
+- DOMAIN-SUFFIX,godoc.org
+- DOMAIN-SUFFIX,golang.org
+- DOMAIN-SUFFIX,gstatic.com
+- DOMAIN-SUFFIX,gv.com
+- DOMAIN-SUFFIX,gvt0.com
+- DOMAIN-SUFFIX,gvt1.com
+- DOMAIN-SUFFIX,gvt2.com
+- DOMAIN-SUFFIX,gvt3.com
+- DOMAIN-SUFFIX,gwtproject.org
+- DOMAIN-SUFFIX,itasoftware.com
+- DOMAIN-SUFFIX,madewithcode.com
+- DOMAIN-SUFFIX,material.io
+- DOMAIN-SUFFIX,polymer-project.org
+- DOMAIN-SUFFIX,recaptcha.net
+- DOMAIN-SUFFIX,shattered.io
+- DOMAIN-SUFFIX,synergyse.com
+- DOMAIN-SUFFIX,telephony.goog
+- DOMAIN-SUFFIX,tensorflow.org
+- DOMAIN-SUFFIX,tfhub.dev
+- DOMAIN-SUFFIX,tiltbrush.com
+- DOMAIN-SUFFIX,waveprotocol.org
+- DOMAIN-SUFFIX,waymo.com
+- DOMAIN-SUFFIX,webmproject.org
+- DOMAIN-SUFFIX,webrtc.org
+- DOMAIN-SUFFIX,whatbrowser.org
+- DOMAIN-SUFFIX,widevine.com
+- DOMAIN-SUFFIX,x.company
+- DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+- DOMAIN-SUFFIX,youtu.be
+- DOMAIN-SUFFIX,youtube.com
+- DOMAIN-SUFFIX,yt.be
+- DOMAIN-SUFFIX,ytimg.com
+- IP-CIDR,108.177.8.0/21
+- IP-CIDR,172.217.0.0/16
+- IP-CIDR,173.194.0.0/16
+- IP-CIDR,209.85.128.0/17
+- IP-CIDR,216.239.32.0/19
+- IP-CIDR,216.58.192.0/19
+- IP-CIDR,35.190.247.0/24
+- IP-CIDR,64.233.160.0/19
+- IP-CIDR,66.102.0.0/20
+- IP-CIDR,66.249.80.0/20
+- IP-CIDR,72.14.192.0/18
+- IP-CIDR,74.125.0.0/16
+
+# > Facebook
+- DOMAIN-KEYWORD,facebook
+- DOMAIN-SUFFIX,cdninstagram.com
+- DOMAIN-SUFFIX,fb.com
+- DOMAIN-SUFFIX,fb.me
+- DOMAIN-SUFFIX,fbaddins.com
+- DOMAIN-SUFFIX,fbcdn.net
+- DOMAIN-SUFFIX,fbsbx.com
+- DOMAIN-SUFFIX,fbworkmail.com
+- DOMAIN-SUFFIX,instagram.com
+- DOMAIN-SUFFIX,m.me
+- DOMAIN-SUFFIX,messenger.com
+- DOMAIN-SUFFIX,oculus.com
+- DOMAIN-SUFFIX,oculuscdn.com
+- DOMAIN-SUFFIX,rocksdb.org
+- DOMAIN-SUFFIX,whatsapp.com
+- DOMAIN-SUFFIX,whatsapp.net
+
+# > Twitter
+- DOMAIN-KEYWORD,twitter
+- DOMAIN-SUFFIX,periscope.tv
+- DOMAIN-SUFFIX,pscp.tv
+- DOMAIN-SUFFIX,t.co
+- DOMAIN-SUFFIX,twimg.co
+- DOMAIN-SUFFIX,twimg.com
+- DOMAIN-SUFFIX,twitpic.com
+- DOMAIN-SUFFIX,vine.co
+
+# > Wall
+- DOMAIN-SUFFIX,shadowsocks.org
+- DOMAIN-SUFFIX,torproject.org
+- DOMAIN-SUFFIX,v2ray.com
+
+# > Other
+- DOMAIN-SUFFIX,apkmirror.com
+- DOMAIN-SUFFIX,apkpure.com
+- DOMAIN-SUFFIX,luoxia.com
+- DOMAIN-SUFFIX,atlob.org
+- DOMAIN-SUFFIX,bandwagonhost.com
+- DOMAIN-SUFFIX,bit.ly
+- DOMAIN-SUFFIX,cloudfront.net
+- DOMAIN-SUFFIX,dl.sourceforge.net
+- DOMAIN-SUFFIX,imgur.com
+- DOMAIN-SUFFIX,inoreader.com
+- DOMAIN-SUFFIX,ipfs.io
+- DOMAIN-SUFFIX,k8s.io
+- DOMAIN-SUFFIX,kubernetes.io
+- DOMAIN-SUFFIX,medium.com
+- DOMAIN-SUFFIX,tumblr.com
+- DOMAIN-SUFFIX,wikipedia.org
+- DOMAIN-SUFFIX,wmsxwd.win

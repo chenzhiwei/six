@@ -1,0 +1,25 @@
+payload:
+# > GeoIP China
+- GEOIP,CN
+
+# > Xiaomi
+- DOMAIN-SUFFIX,duokan.com
+- DOMAIN-SUFFIX,mi-img.com
+- DOMAIN-SUFFIX,mi.com
+- DOMAIN-SUFFIX,miui.com
+- DOMAIN-SUFFIX,miwifi.com
+- DOMAIN-SUFFIX,xiaomi.cn
+- DOMAIN-SUFFIX,xiaomi.com
+- DOMAIN-SUFFIX,xiaomi.net
+
+# > Google Special domains
+- DOMAIN-SUFFIX,mtalk.google.com
+- DOMAIN-SUFFIX,alt1-mtalk.google.com
+- DOMAIN-SUFFIX,alt2-mtalk.google.com
+- DOMAIN-SUFFIX,alt3-mtalk.google.com
+- DOMAIN-SUFFIX,alt4-mtalk.google.com
+- DOMAIN-SUFFIX,alt5-mtalk.google.com
+- DOMAIN-SUFFIX,alt6-mtalk.google.com
+- DOMAIN-SUFFIX,alt7-mtalk.google.com
+- DOMAIN-SUFFIX,alt8-mtalk.google.com
+- DOMAIN-SUFFIX,alt9-mtalk.google.com
